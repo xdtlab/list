@@ -1,0 +1,2 @@
+# Each line contains the corresponding socket address of a Daten node.
+# Introduce your node by creating a pull request!
